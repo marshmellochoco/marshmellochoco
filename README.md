@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love :notes: and :video_game:!
 
 ### :hammer_and_wrench: Tools and Languages
-[<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />vscode](https://code.visualstudio.com/)      
+[<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)      
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/) React     
