@@ -18,4 +18,5 @@
 ### My Github Stats
 <a href="https://github.com/marshmellochoco">
   <img src="https://github-readme-stats.vercel.app/api?username=marshmellochoco&show_icons=true&theme=buefy&hide_border=true&hide_title=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmellochoco&layout=compact"/>
 </a>
