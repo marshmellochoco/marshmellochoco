@@ -18,5 +18,7 @@
 ### My Github Stats
 <a href="https://github.com/marshmellochoco">
   <img src="https://github-readme-stats.vercel.app/api?username=marshmellochoco&show_icons=true&theme=buefy&hide_border=true&hide_title=true"/>
+  <!-- I'll uncomment this once I have any repo or contributions
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmellochoco&layout=compact&hide_border=true"/>
+  -->
 </a>
