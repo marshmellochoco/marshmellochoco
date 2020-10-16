@@ -6,7 +6,7 @@
 - 💬 Ask me about anything! (I'll try to answer)
 - ⚡ Fun fact: I love :notes: and :video_game:!
 
-### :hammer_and_wrench: Tools and Languages
+### Tools and Languages :hammer_and_wrench:
 [<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
 [<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />](https://reactjs.org/)
 [<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)
