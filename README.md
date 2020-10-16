@@ -14,3 +14,6 @@
 [<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">](https://nodejs.org/en/)
 [<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
+
+### My Github Stats
+[https://github-readme-stats.vercel.app/api?username=marshmellochoco&show_icons=true&theme=buefy]
