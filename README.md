@@ -16,4 +16,4 @@
 [<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
 
 ### My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=marshmellochoco&show_icons=true&theme=buefy"/>
+<a href="google.com"><img src="https://github-readme-stats.vercel.app/api?username=marshmellochoco&show_icons=true&theme=buefy"/></a>
