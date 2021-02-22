@@ -1,6 +1,6 @@
 ### Hi there, it's marshmellochoco :chocolate_bar:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my studies 😢
 - 🌱 I’m currently learning Fullstack
 - 👯 I’m looking to collaborate on any project :hearts:
 - 💬 Ask me about anything! (I'll try to answer)
